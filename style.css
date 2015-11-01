@@ -88,13 +88,19 @@ body {
     clear: both;
     text-align: left;
     padding: 5%;
+    margin-top: 50px;
 }
 
 #formLayout 
 {
     padding: 5px;
     font-weight: bold;
+    margin-top: 10px;
 
+}
+#boxtext{
+    height: 20px;
+    width: auto;
 }
 select{
     font-family: WDB_Bangna;
@@ -106,7 +112,7 @@ select{
 #formLayout label, #formLayout input
 {
    display: block;
-   width: 200px;
+   width: 400px;
    float: left;
    margin-bottom: 10px;
    margin-right:0.5em;
@@ -167,7 +173,7 @@ width: 4em;
 color: #FFF;
 font-weight: bold;
 background-color: #036;
-padding: .2em 0;
+padding: .3em 0;
 text-align: center;
 text-decoration: none;
 margin-top: -55px;
