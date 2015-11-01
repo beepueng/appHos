@@ -203,7 +203,7 @@ list-style-type: none;
     top: 0;
     left: 0;
     width: 100%;
-    
+    height: auto;
 }
  
 #tab-bar li {
@@ -225,11 +225,10 @@ list-style-type: none;
 }
 
 footer{
-    
     background-color:#E9EAED;
     padding:0;
     position:absolute;
-    z-index:6;
+    z-index:3;
     font-size:20px;
     width:100%;
     text-align:center;
@@ -243,7 +242,7 @@ footer{
     border-top:1px solid #bcbcbc;
 }
 footer li a:hover{
-    color: #FFF;
+    color: #69C;
     background-color: #69C;
 }
 
